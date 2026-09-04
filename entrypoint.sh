@@ -1,4 +1,4 @@
-#!/bin/bash
+﻿#!/bin/bash
 # entrypoint.sh
 # Boots the virtual-display stack (Xvfb -> fluxbox -> x11vnc -> noVNC),
 # waits for each layer to actually be ready before starting the next,
